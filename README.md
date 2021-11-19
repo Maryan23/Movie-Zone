@@ -1,4 +1,4 @@
-# COFFEE AND CODE
+# MOVIE ZONE
 
 ## Author
 [Maryann Mwikali](https://github.com/Maryan23)
