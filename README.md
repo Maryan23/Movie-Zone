@@ -11,6 +11,7 @@
 ## Support and contact details
 Incase of any contributions fork the repo and make any substantial changes.
 Incase of any ideas,suggestions or complaints feel free to connect with me on mwikali119@gmail.com 
+
 ### License
 MIT
 Copyright (c) 2021 **MovieZone**
